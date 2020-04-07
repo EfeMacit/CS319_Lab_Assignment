@@ -10,7 +10,6 @@ public class ArrayOrganizer {
         Collections.sort(result, Collections.reverseOrder());
         result.addAll(list3);
         Collections.sort(result);
-        feature-branch
         return result;
     }
 
